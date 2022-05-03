@@ -1,2 +1,4 @@
 ﻿  Log_in.cpp
+C:\Users\pnhcu\OneDrive - University of Houston Downtown\Academic\Spring 2022\CS3321\Group Project\assignment 4\Log_in\Log_in\Log_in.cpp(141,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\pnhcu\OneDrive - University of Houston Downtown\Academic\Spring 2022\CS3321\Group Project\assignment 4\Log_in\Log_in\Log_in.cpp(144,13): warning C4101: 'itemIndex': unreferenced local variable
   Log_in.vcxproj -> C:\Users\pnhcu\OneDrive - University of Houston Downtown\Academic\Spring 2022\CS3321\Group Project\assignment 4\Log_in\Debug\Log_in.exe
