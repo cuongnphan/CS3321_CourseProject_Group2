@@ -140,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Log_in.cpp" />
+    <ClCompile Include="CS3321_CourseProject_Group2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="CustomerCredential.txt" />

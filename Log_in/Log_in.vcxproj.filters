@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Log_in.cpp">
+    <ClCompile Include="CS3321_CourseProject_Group2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
